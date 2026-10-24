@@ -1,0 +1,39 @@
+@import url(https://fonts.google.com/specimen/Outfit
+);
+
+body {
+    width: 844px;
+
+}
+.card{
+    width: 360px;
+    height: 720px;
+    justify-content: center;
+    justify-content: space-around;
+    justify-items: center;
+    background-color: hsl(212, 18%, 41%);
+    padding: 1rem 1rem 1rem 1rem;
+    margin: 2rem;
+    border-radius: 2rem;
+
+}
+p{
+    
+    font-size-adjust: inherit;
+    font-size: larger;
+}
+img{
+    height: 300px;
+    width: 300px; ;
+    justify-content:center;
+    border-radius: 4rem;
+}
+.icone{
+    height: 30px;
+    width: 30px;
+} 
+header{
+    align-items: flex-end;
+    width: 200px;
+ 
+}
